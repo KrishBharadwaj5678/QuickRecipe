@@ -29,7 +29,7 @@ def display_data(i):
 
     st.write(f"<p style='font-size:18px;'>{GoogleTranslator(target=language).translate(i['instructions'])}</p>", unsafe_allow_html=True)
 
-    st.write(f"<h4>→ {GoogleTranslator(target=language).translate('This recipe yields ' + str(i['servings']))}</h4>", unsafe_allow_html=True)
+    st.write(f"<h4>→ {GoogleTranslator(target=language).translate('This recipe yields ' + str(i['servings']+"."))}</h4>", unsafe_allow_html=True)
 
 if btn:
     if language=="English":

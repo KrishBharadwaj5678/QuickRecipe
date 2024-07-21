@@ -18,18 +18,18 @@ btn=st.button("Search Recipes")
 
 def display_data(i):
 
-    st.write(f"<h3 style=color:#98FF98;font-size:30px;>{GoogleTranslator(target=language).translate(f"{i["title"]}")}</h3>",unsafe_allow_html=True)
+    st.write(f"<h3 style='color:#98FF98;font-size:30px;'>{GoogleTranslator(target=language).translate(i['title'])}</h3>", unsafe_allow_html=True)
 
-    if(len(i["ingredients"])!=0):
-        st.write(f"<h3>{GoogleTranslator(target=language).translate("Ingredients -")}</h3>",unsafe_allow_html=True)
+    if len(i["ingredients"]) != 0:
+        st.write(f"<h3>{GoogleTranslator(target=language).translate('Ingredients -')}</h3>", unsafe_allow_html=True)
         for j in GoogleTranslator(target=language).translate(i["ingredients"]).split("|"):
-            st.write(f"<li style=font-size:18px;>{j}</li>",unsafe_allow_html=True)
+            st.write(f"<li style='font-size:18px;'>{j}</li>", unsafe_allow_html=True)
 
-    st.write(f"<h3>{GoogleTranslator(target=language).translate("Instructions -")}</h3>",unsafe_allow_html=True)
+    st.write(f"<h3>{GoogleTranslator(target=language).translate('Instructions -')}</h3>", unsafe_allow_html=True)
 
-    st.write(f"<p style=font-size:18px;>{GoogleTranslator(target=language).translate(i["instructions"])}</p>",unsafe_allow_html=True)
+    st.write(f"<p style='font-size:18px;'>{GoogleTranslator(target=language).translate(i['instructions'])}</p>", unsafe_allow_html=True)
 
-    st.write(f"<h4>→ {GoogleTranslator(target=language).translate(f'This recipe yields {i["servings"]}')}</h4>",unsafe_allow_html=True)
+    st.write(f"<h4>→ {GoogleTranslator(target=language).translate(f'This recipe yields {i['servings']} servings')}</h4>", unsafe_allow_html=True)
 
 if btn:
     if language=="English":

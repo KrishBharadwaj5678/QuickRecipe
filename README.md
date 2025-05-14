@@ -1,6 +1,6 @@
 # 🍽️ Quick Recipe
 
-**Quick Recipe** 🍽️ is your personal kitchen companion! Say goodbye to mealtime indecision, discover mouthwatering recipes tailored to your taste and dietary needs in seconds. 🔍
+**Quick Recipe** is your personal kitchen companion! Say goodbye to mealtime indecision, discover mouthwatering recipes tailored to your taste and dietary needs in seconds. 🔍
 
 ---
 
@@ -9,7 +9,7 @@
 * 🔎 **Keyword-Based Search**: Find recipes instantly by typing in ingredients or dish names.
 * 🌐 **Bilingual Support**: Enjoy recipe discovery in both **English** and **Hindi**, powered by Deep Translator.
 * 🍳 **Step-by-Step Instructions**: Get clear cooking directions to help you prepare meals with confidence.
-* ⚡ **Fast & User-Friendly UI**: Built with Streamlit to provide a smooth, responsive, and distraction-free experience.
+* ⚡ **Fast & User-Friendly UI**: Built with Streamlit to provide a smooth, responsive experience.
 * 🥗 **Diet-Aware Results**: Supports vegetarian, vegan, keto, and more dietary preferences.
 * 📋 **Quick Recipe Preview**: Instantly view recipe essentials without navigating away.
 
@@ -32,17 +32,10 @@
 
    ```bash
    git clone https://github.com/KrishBharadwaj5678/QuickRecipe.git
-   cd quick-recipe
+   cd QuickRecipe
    ```
 
-2. Create and activate a virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
    ```bash
    pip install -r requirements.txt
@@ -57,9 +50,6 @@ Start the Streamlit app with:
 ```bash
 streamlit run app.py
 ```
-
-Then visit `http://localhost:8501` in your browser.
-
 ---
 
 ## 🤝 Contributing

@@ -1,6 +1,6 @@
 # 🍽️ Quick Recipe
 
-**Quick Recipe** 🍽️ is your personal kitchen companion! Say goodbye to mealtime indecision — discover mouthwatering recipes tailored to your taste and dietary needs in seconds. Whether you're a newbie in the kitchen or a culinary pro, **Quick Recipe** makes cooking fun, fast, and flavorful. 🔍✨
+**Quick Recipe** 🍽️ is your personal kitchen companion! Say goodbye to mealtime indecision, discover mouthwatering recipes tailored to your taste and dietary needs in seconds. 🔍
 
 ---
 
@@ -31,7 +31,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/quick-recipe.git
+   git clone https://github.com/KrishBharadwaj5678/QuickRecipe.git
    cd quick-recipe
    ```
 

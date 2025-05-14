@@ -66,7 +66,7 @@ Contributions are welcome and appreciated!
    git checkout -b feature/your-feature-name
    ```
 
-4. **Make Your Changes**
+4. **Make Your Changes**:
    Improve features, fix bugs, or add new functionality.
 
 5. **Commit Your Changes**
@@ -82,5 +82,5 @@ Contributions are welcome and appreciated!
    git push origin feature/your-feature-name
    ```
 
-7. **Open a Pull Request**
+7. **Open a Pull Request**:
    Go to the original repository and click on **New Pull Request**.

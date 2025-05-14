@@ -83,4 +83,4 @@ Contributions are welcome and appreciated!
    ```
 
 7. **Open a Pull Request**
-   Go to the original repository and click on **New Pull Request**. Describe your changes and submit.
+   Go to the original repository and click on **New Pull Request**.

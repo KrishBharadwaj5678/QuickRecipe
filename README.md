@@ -50,7 +50,7 @@
    ```
 ---
 
-## Contributing 🤝
+## 🤝 Contributing 
 
 Want to contribute? Here's how:
 

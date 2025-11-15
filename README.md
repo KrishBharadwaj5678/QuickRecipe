@@ -1,17 +1,19 @@
 # 🍽️ Quick Recipe
 
-**Quick Recipe** is your personal kitchen companion! Say goodbye to mealtime indecision, discover mouthwatering recipes tailored to your taste and dietary needs in seconds. 🔍
+**Quick Recipe** is your personal kitchen companion! Say goodbye to mealtime indecision, discover mouthwatering recipes tailored to your taste and dietary needs in seconds.
 
----
+![QuickRecipe](https://github.com/KrishBharadwaj5678/QuickRecipe/raw/main/QuickRecipeDemo.png)
 
 ## 🚀 Features
 
-* 🔎 **Keyword-Based Search**: Find recipes instantly by typing in ingredients names.
-* 🌐 **Bilingual Support**: Enjoy recipe discovery in both **English** and **Hindi**, powered by Deep Translator.
-* 🍳 **Step-by-Step Instructions**: Get clear cooking directions to help you prepare meals with confidence.
-* ⚡ **Fast & User-Friendly UI**: Built with Streamlit to provide a smooth, responsive experience.
-* 🥗 **Diet-Aware Results**: Supports vegetarian, vegan, keto, and more dietary preferences.
-* 📋 **Quick Recipe Preview**: Instantly view recipe essentials without navigating away.
+| **Feature**               | **Description**                                    |
+| ------------------------- | -------------------------------------------------- |
+| 🔎 **Keyword Search**     | Find recipes instantly using ingredient names.     |
+| 🌐 **English & Hindi**    | Bilingual support powered by Deep Translator.      |
+| 🍳 **Step-by-Step Guide** | Clear and simple cooking instructions.             |
+| ⚡ **Fast UI**             | Smooth, responsive interface built with Streamlit. |
+| 🥗 **Diet Filters**       | Supports veg, vegan, keto, and other preferences.  |
+| 📋 **Quick Preview**      | View key recipe details at a glance.               |
 
 ---
 
@@ -41,46 +43,19 @@
    pip install -r requirements.txt
    ```
 
+3. Start the Streamlit app with:
+
+   ```bash
+   streamlit run app.py
+   ```
 ---
 
-## ▶️ Running the App
+## Contributing 🤝
 
-Start the Streamlit app with:
+Want to contribute? Here's how:
 
-```bash
-streamlit run app.py
-```
----
-
-## 🤝 Contributing
-
-Contributions are welcome and appreciated!
-
-### 🛠️ How to Contribute
-
-1. **Fork the Repository**  
-2. **Clone Your Fork**
-3. **Create a New Branch**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **Make Your Changes**:
-   Improve features, fix bugs, or add new functionality.
-
-5. **Commit Your Changes**
-
-   ```bash
-   git add .
-   git commit -m "Add: Brief description of your changes"
-   ```
-
-6. **Push to Your Fork**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-7. **Open a Pull Request**:
-   Go to the original repository and click on **New Pull Request**.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.

@@ -21,10 +21,10 @@
 
 | Technology        | Description                                               |
 |------------------|-----------------------------------------------------------|
-| **Python** 🐍     | Core programming language                                 |
-| **Streamlit** 📊  | For building interactive web UI                          |
-| **Requests** 🔗   | For handling API calls to recipe services                |
-| **Deep Translator** 🌐 | For translating recipe content into multiple languages |
+| 🐍 **Python**      | Core programming language                                 |
+| 📊 **Streamlit**   | For building interactive web UI                          |
+| 🔗 **Requests**    | For handling API calls to recipe services                |
+| 🌐 **Deep Translator**  | For translating recipe content into multiple languages |
 
 ---
 

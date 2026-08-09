@@ -32,7 +32,6 @@
 | 🔎 **Pesquisa Inteligente de Receitas** | Encontre receitas instantaneamente usando nomes de ingredientes.                      |
 | 🌐 **Suporte Bilíngue**                 | Acesse receitas em inglês e hindi.                                                    |
 | 🍳 **Cozinha Guiada**                   | Siga instruções claras e passo a passo para preparar suas receitas.                   |
-| 🥗 **Preferências Alimentares**         | Filtre receitas com base em preferências vegetarianas, veganas, cetogênicas e outras. |
 | 📋 **Visão Geral da Receita**           | Consulte rapidamente os detalhes essenciais de cada receita.                          |
 
 <img src="https://github.com/KrishBharadwaj5678/QuickRecipe/raw/main/assets/readme/divider.gif" width="100%"/>

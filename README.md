@@ -32,7 +32,6 @@
 | 🔎 **Smart Recipe Search** | Find recipes instantly using ingredient names.                          |
 | 🌐 **Bilingual Support**   | Access recipes in both English and Hindi.                               |
 | 🍳 **Guided Cooking**      | Follow clear, step-by-step cooking instructions.                        |
-| 🥗 **Dietary Preferences** | Filter recipes based on vegetarian, vegan, keto, and other preferences. |
 | 📋 **Recipe Overview**     | View essential recipe details quickly and easily.                       |
 
 <img src="https://github.com/KrishBharadwaj5678/QuickRecipe/raw/main/assets/readme/divider.gif" width="100%"/>
